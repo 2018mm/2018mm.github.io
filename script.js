@@ -27,7 +27,7 @@ $(document).ready(function(){
         mode: 'fade',
        maxSlides: 1,
        moveSlides: 1,
-       pagerCustom: '#bx-pager',
+       pagerCustom: '.bx-pager',
        controls: false,
        slideWidth: 700
      });
